@@ -1,0 +1,15 @@
+{
+  "name": "test_demot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Folder for some personal unit test demos written with Jest - JavaScript testing framework.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
